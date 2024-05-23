@@ -1,0 +1,8 @@
+colorzero==2.0
+evdev==1.7.1
+gpiozero==2.0.1
+importlib-metadata==4.13.0
+importlib-resources==5.13.0
+python-dotenv==1.0.1
+RPi.GPIO==0.7.1
+zipp==3.18.2
