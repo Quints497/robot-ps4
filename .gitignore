@@ -2,3 +2,4 @@
 venv
 ps4_controller.log
 ps_button_monitor.log
+*__pycache__
